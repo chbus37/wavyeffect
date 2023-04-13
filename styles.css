@@ -27,7 +27,7 @@ h2{
 }
 
 .wave {
-    color: #09f;
+    color: rgb(255, 30, 0);
     animation: wave 3s ease-in-out infinite;
 }
 
